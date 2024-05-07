@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">FlorasDeLaRegion</string>
+    <string name="flora1">Pitayo</string>
+    <string name="flora2">Temachaco</string>
+    <string name="flora3">Garambullo</string>
+    <string name="flora4">Nopal</string>
+    <string name="flora5">Guayabo</string>
+    <string name="flora6">Mezquite</string>
+    <string name="flora7">Huizache</string>
+    <string name="flora8">Agave lechuguilla</string>
+</resources>
